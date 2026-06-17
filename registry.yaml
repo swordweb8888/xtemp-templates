@@ -2,8 +2,8 @@ version: 1
 
 templates:
   cpp-console-test:
-    lastest: 1.0.0
-    desciption: Basic C++ console application
+    latest: 1.0.0
+    description: Basic C++ console application
     versions:
       - 1.0.0
 
