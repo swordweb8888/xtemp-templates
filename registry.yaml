@@ -3,6 +3,7 @@ version: 1
 templates:
   cpp-console-test:
     latest: 1.0.0
+    language: c++
     description: Basic C++ console application
     versions:
       - 1.0.0
